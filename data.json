@@ -1,8 +1,26 @@
 
-       {
-           "Model": "Samsung S9",
-           "product Code": "12345",
-           "Manufacturer": "samsung"  
+{
+   "Mobiles & Tablets": {
+       "Mobiles": {
+           "Apple": "/products/mobiles-and-phones/phone?brand=apple",
+           "Samsung": "/products/mobiles-and-phones/phone?brand=samsung",
+           "Mi Phones": "/products/mobiles-and-phones/phone?brand=mi",
+           "Lenovo": "/products/mobiles-and-phones/phone?brand=lenovo",
+           "Asus": "/products/mobiles-and-phones/phone?brand=asus",
+           "All Phones": "/products/mobiles-and-phones/phone",
+           "branch_id": "/products/mobiles-and-phones/phone"
+       },
+       "Mobile Accessories": {
+           "Covers": "/products/mobile-accessories/cover",
+           "Screenguards": "/products/mobile-accessories/screen-guard",
+           "Cables and Chargers": "/products/mobile-accessories/charger",
+           "Memory Cards": "/products/computer-accessories/memory-card",
+           "Headset": "/products/general-accessories/headset",
+           "Headphones": "/products/general-accessories/headphone",
+           "Earphone": "/products/mobile-accessories/earphone",
+           "More": "/products/mobile-accessories",
+           "branch_id": "/products/mobile-accessories"
        }
+}
        
       
